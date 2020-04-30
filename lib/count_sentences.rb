@@ -12,7 +12,11 @@ class String
   end
 
   def question?
-    if self.end
+    if self.end("?")
+      returns true 
+    else 
+      return false 
+    end 
 
   end
 
