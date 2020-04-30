@@ -17,6 +17,7 @@ class String
     else 
       return false 
     end 
+  end 
 
   end
 
