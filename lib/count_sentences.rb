@@ -16,7 +16,6 @@ class String
       returns true 
     else 
       return false 
-    end 
   end 
 
   end
