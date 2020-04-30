@@ -11,14 +11,7 @@ class String
     
   end
 
-  def question?
-    if self.end("?")
-      returns true 
-    else 
-      return false 
-  end 
-
-  end
+  
 
   def exclamation?
 
